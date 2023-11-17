@@ -2,6 +2,8 @@
 This is my github, :grin:
 
 I'm a developer who needs to update this git, but these are my personal projects, several are unfinished, some are just tests, others are just course exercises.
+_Passionate about programming, curious by nature. Programmer focused most of his career on PHP, using JavaScript, MySQL._
+
 
 :computer: Currently programming in: 
 - 🐘 php
@@ -13,6 +15,8 @@ I'm a developer who needs to update this git, but these are my personal projects
 🌱 I’m currently learning php, sql, English....
 
 😅 _My English is very beginner, so I translated everything I wanted to put here on Google Translate_
+
+
 <!--
 **andersonlairton/andersonlairton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
